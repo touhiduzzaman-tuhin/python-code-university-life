@@ -1,0 +1,409 @@
+1.How To Print Hello World help of double quotation in python
+
+2.How To Print Hello World help of single quotation in python
+
+3.How To Print Hello World help of variable in double quotation  in python
+
+4.How To Print Hello World help of variable in single quotation  in python
+
+5.How To Print Addition of two value use Three variable in Python
+
+6.How To Print Subtraction of two value use Three variable in Python
+
+7.How To Print Multiplication of two value use Three variable in Python
+
+8.How To Print Division of two value use Three variable in Python
+
+9.How To Print Modulus of two value use Three variable in Python
+
+10.How To Print Data Type of two value Add use Three variable in Python
+
+11.How To create Comment in Python
+
+12.How To Print string and Data Type help of variable in single quotation
+
+13.How To Print string and Data Type help of variable in double quotation
+
+14.How To Print Bangladesh's in single quotation
+
+15.How To Print Bangladesh's in double quotation
+
+16.How To Print Bangladesh"s in single quotation
+
+17.How To Print Bangladesh"s in double quotation
+
+18.How To Find A Word from a string
+
+19.How To Print Length of a string in two way
+
+20.How To Print A Character of a string help of positive indexing
+
+21.How To Convert Upper case in Python
+
+22.How To Convert Lower case in Python
+
+23.How To Add Two string in Python
+
+24.How To Replace A Character in Python
+
+25.How To Replace value with out temporary variable in Python
+
+26.Three Space Remove Method in Python
+
+27.Reverse string Print in python
+
+28.Create A List same data And Print the List And Type
+
+29.Create A List different Data And Print List index Value Type
+
+30.Create A List different Data And Print List index Value help of positive indexing
+
+31.Create A List different Data And Print List index Value help of negative indexing
+
+32.Create A List different Data And Print Reverse List, Odd index List value, Even index
+List Value,0 index to n-i index Value,i index to n index,0 to i index 2 difference Value
+
+33.Change List value in python
+
+34.Print All False Bool
+
+35.Print All True Bool
+
+36.Print True Or False for or, not, and
+
+37.List Value bool and type
+
+38.List in operation for integer Value
+
+39.List in operation for string Value
+
+40.List string Print and type
+
+41.Vowel or Consonent help of in operation
+
+42.positive or negative number in python
+
+43.1 To 10 Print while loop in python
+
+44.1 To 100 Fibonacci number Print while loop in python
+
+45.Print All Vowel for loop use list
+
+46.Print 1 to n for loop use list
+
+47.Print 1 to n for loop use range
+
+48.Print 1 to n Even number for loop use range
+
+49.Print 1 to n Odd number for loop use range
+
+50.Print i to n and k difference for loop use range
+
+51.Use Break statement for loop after print greater than
+
+52.Use Break statement for loop after print less than
+
+53.Use Break statement for loop before print greater than
+
+54.Use Break statement for loop before print less than
+
+55.Use Continue statement for loop after print greater than
+
+56.Use Continue statement for loop after print less than
+
+57.Use Continue statement for loop before print greater than
+
+58.Use Continue statement for loop before print less than
+
+59.print 1 to 9 in list
+
+60.Add value at last in list
+
+61.Add value at certain in list
+
+62.Reverse List print
+
+63.accending order List print
+
+64.Lenth of a List print
+
+65.delete last and certain index value
+
+66.Remove a value from a list
+
+67.destroy/clear a list
+
+68.count how many times a digit/char in a list
+
+69.copy a list from another list
+
+70.add multiple value in a list at one times
+
+71.add multiple value in a list at one times and delete first element
+
+72.print 100 zero in python
+
+73.copy a list from another list use variable
+
+74.copy a list from another list use variable and delete first element
+
+75.copy a list from another list use variable and delete last element
+
+76.multiple element add one time
+
+77.Stack add value and delete value
+
+78.Queue add value and delete value
+
+79.Create A List And insert all the Even Number
+
+80.Create A List And insert all the Odd Number
+
+81.Create A Tupple And print data type and value
+
+82.Create A Tupple And print value help of positive index
+
+83.Create A Tupple And print value help of negative index
+
+84.Create A Tupple And print data type help of positive index
+
+85.Create A Tupple And print All the value help of loop
+
+86.Create A Tupple with multiple variable And print All the value
+
+87.Create A Tupple and assign the value in multiple variable And print All the value
+
+88.Create A List and assign the value in multiple variable And print All the value
+
+89.Create A Nexted Tuple and print the value
+
+90.create A tupple and convert it list then print the value and type
+
+91.print the set value and set type--empty
+
+92.create two set from list and tupple and print set value
+
+93.create two set from list and tupple and print or, and, xor value
+
+94.create two set from list and tupple and test in operation
+
+95.create two set from list and tupple String value and print value
+
+96.create two set from list and tupple and convert the set in list and tupple
+
+97.create A dictionary and print value, key and dictionary type
+
+98.create A dictionary and print value
+
+99.create A dictionary and print key
+
+100.create A dictionary and print value, key in different line
+
+101.create A dictionary and print  key in same line
+
+102.create A dictionary and add a key, value
+
+103.create A dictionary and change a value of a key
+
+104.create A dictionary and delete and element
+
+105.Print Name of the built in dictionary---three
+
+106.user input two number and add
+
+107.user input integer two number and add
+
+108.Square Root of a Number
+
+109.Square Root of a Number with out math. use
+
+110.user give a input as integer check the data type
+
+111.Create A Function that Return add result 
+
+112.Create A Function that Return add result user input
+
+113.Create A Function pass value and list in function change value and add value
+in list return list check function call before after value
+
+114.Create A function with three parameter return square one parameter set as 0 pass three
+parameter
+
+115.Create A function with three parameter return square one parameter set as 0 pass two
+parameter
+
+116.Create A function with three parameter return square one parameter set as 0 pass two
+parameter print value different line
+
+117.Create A function with three parameter return square one parameter set as 0 pass three
+parameter print value different line
+
+118.Create A function with three parameter return square one parameter set as None pass two
+parameter print value
+
+119.Create A function with three parameter return square one parameter set as None pass two
+parameter print value different line
+
+120.Create A Function Return sum of two number
+
+121.Create A Function Return sub of two number
+
+122.Create A Function Return sub of two number
+
+123.Create A Function Return mul of two number
+
+124.Create A Function Return div of two number
+
+125.Create A Function Return mod of two number
+
+126.Create A Function Return sum of two number user input
+
+127.Create A Function Return sub of two number user input
+
+128.Create A Function Return mul of two number user input
+
+129.Create A Function Return div of two number user input
+
+130.Create A Function Return mod of two number user input
+
+131.create a variable take string and divide every character
+
+132.create a variable take string with one space one character and divide every character
+
+133.create a variable take string with one space multi character and divide every character
+
+134.create a variable take string with many space and divide every character
+
+135.create a variable take string with many space and divide every character where space
+found
+
+136.create a variable take string and convert it list 
+
+137.create a variable take list and perform few operation like,
+li = ['a', 'b'] output is a+b, a@b, a&b
+
+138.create a variable take String and perform few operation like,
+li = ['a', 'b'] output is a+b, a@b, a&b
+
+139.create a variable take String like, var = a+b or a@b or a&b convert it in list
+
+140.create a variable take String and n space move left, right, center
+
+141.create a variable take number and n space move left, right, center
+
+142.Print 1 to n in same line last value
+
+143.create a variable take string and output n length of i zero fill length 7 = 00007, n= 5
+
+144.create a variable take number and output n length of i zero fill length
+
+145.create a variable take negative number and output n length of i zero fill length
+
+146.Print Ban vs Pak 
+
+147.Print 1 to n with else in for
+
+148.Print 1 to n break Statement with else in for
+
+149.Create function divide two number error problem solved input correct
+
+150.Create function divide two number error problem solved input value error
+
+151.Create function divide two number error problem solved input zero divide error
+
+152.Create function divide two number error problem solved input string and integer
+
+153.create A square Class side and print the Area value 0 
+
+154.create A square Class side and print the Area value set in a variable 2 times
+
+155.create A square Class side and print the Area value set in a variable 1 time
+
+156.create A square Class side and print the Area value set in a variable 1 time user input
+
+157.create A square Class side and print the Area value 0 init function
+
+158.create A square Class side and print the Area value n init function v = 0
+
+159.create A square Class side and print the Area value n init function 2 times value 2 times
+
+160.create A square Class side and print the Area value n init function 2 times value 3 times
+
+161.create A square Class side and print the Area value n init function 2 times value 3 
+times print side value, with function value, without function value
+
+162.Create Two Class one class have nothing another class have 2 function print two function
+value
+
+163.Create Two Class one class have nothing but subclass of other class another class have 
+function print two function value
+
+164.Create Two Class one class have 2 function but subclass of other class another class have 
+2 function and same type of init print two function value
+
+165.Create 2 class and print the 2 main class
+
+166.Create 2 class and check the subclass
+
+167.Create 2 class and check the instance
+
+168.Create 2 class and print the 2 main class one is subclass
+
+169.Create 2 class one is subclass check the subclass
+
+170.Create 2 class one is subclass check the instance
+
+171.check the instance of data type
+
+172.check the subclass of data type
+
+173.create a class and set the value with help of object print the value help of object
+
+174.print the string value line by line
+
+175.print 1 to n line by line in list don't use variable
+
+176.Take a string value and print iterable position
+
+177.print the string value using indexing one value multiple time
+
+178.Take a string value and iterable the string positionprint the string value using indexing
+
+179.Take a string value and iterable the string positionprint the string value using indexing
+one value multiple time
+
+180.Take a list value and print iterable position
+
+181.Take a list value and print iterable position print all the value
+
+182.Take a list value and print iterable position print all the value one value multiple time
+
+183.print 1 to n 
+
+184.create a list print all value mu time
+
+185.Create a generator object
+
+186.Create a generator object and print all the value
+
+187.Create a generator object and print all the value one value multiple time
+
+188.Create a generator object and print all the value while loop use
+
+189.Create a generator object and print all the value while loop use one value multiple time
+
+190.print 1 to n for loop one line also print type
+
+191.create generator 1 to n for loop one line also print type
+
+192.create generator 1 to n for loop one line also print all the value
+
+193.create generator 1 to n for loop one line also print all the value using loop
+
+194.create generator 1 to n for loop one line also print n+i time value
+
+195.create generator 1 to n for loop one line also print n+i time value using loop
+
+
+
+

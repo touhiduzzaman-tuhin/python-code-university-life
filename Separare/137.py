@@ -1,0 +1,1 @@
+print("{team1} Vs {team2}".format(team1 = "Pak", team2 = "Ind"))

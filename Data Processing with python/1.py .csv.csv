@@ -1,0 +1,10 @@
+"from,ftplib,import,FTP,1.py",1.py .csv
+"ftp1,=,""FTP(""""ftp.pyclass.com"""")"",,1.py",1.py .csv
+"ftp1.login(""student@pyclass.com"",,student123),,,1.py",1.py .csv
+"l,=,ftp1.nlst(),,1.py",1.py .csv
+"print(l),,,,1.py",1.py .csv
+"n,=,""ftp1.nlst(""""Data"""")"",,1.py",1.py .csv
+"print(n),,,,1.py",1.py .csv
+"print(ftp1.cwd(""Data"")),,,,1.py",1.py .csv
+"print(ftp1.cwd("".."")),,,,1.py",1.py .csv
+"ftp1.close(),,,,1.py",1.py .csv

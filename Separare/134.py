@@ -1,0 +1,1 @@
+print("{0} Vs {1}".format("Ban", "Ind"))
